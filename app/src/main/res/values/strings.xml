@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="password">Password</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="ok">OK</string>
+</resources>
